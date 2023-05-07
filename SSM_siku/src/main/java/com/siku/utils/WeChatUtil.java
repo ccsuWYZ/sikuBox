@@ -9,9 +9,9 @@ import java.util.Hashtable;
 import java.util.Map;
 
 public class WeChatUtil {
-    private static final String APP_ID = "wx4457d211491cc38e";
-    private static final String APP_SECRET = "16f2b1d5f198888fbfb528de0947bbe7";
-    private static final String GRANT_TYPE = "authorization_code";
+    private static final String APP_ID = "";
+    private static final String APP_SECRET = "";
+    private static final String GRANT_TYPE = "";
 
     /**
      * 像微信服务器发送请求，获取 sessionKey、openId
